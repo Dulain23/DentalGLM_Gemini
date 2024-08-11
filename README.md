@@ -50,7 +50,8 @@ This project includes a Node.js backend (`dentalglm-backend`) and a React fronte
    ```bash
    npm start
 
-    After that access, the application from the mentioned port.
+## Access the Application
+Once both the backend and frontend servers are running, you can access the application by navigating to the port the frontend is running on using your browser.
 
   
 
