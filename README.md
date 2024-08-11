@@ -6,7 +6,7 @@ This project includes a Node.js backend (`dentalglm-backend`) and a React fronte
 
 1. **Clone the Repository**
 
-   First, clone the repository to your local machine and navigate to the dentalglm-backend:
+   First, clone the repository to your local machine and navigate to that repository. Then navigate to the dentalglm-backend:
    ```bash
    cd ./dentalglm-backend
 
